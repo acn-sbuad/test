@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLP3WvjfZn7stOvz1GGPFc7gLsy+0aNeyS82kAn6JpBIyxi8jUW22hg4wXGby5FXaK+/PN0Kj2MvdFOPcXTVog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stephanie.buadu\\source\\repos\\Altinn3Mock\\Altinn3Mock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stephanie.buadu\\.nuget\\packages\\altinn.platform.storage.interface\\2.5.0\\altinn.platform.storage.interface.2.5.0.nupkg.sha512",
+    "C:\\Users\\stephanie.buadu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.10\\microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",
+    "C:\\Users\\stephanie.buadu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.10\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.10.nupkg.sha512",
+    "C:\\Users\\stephanie.buadu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\stephanie.buadu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\stephanie.buadu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
